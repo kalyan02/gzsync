@@ -18,3 +18,10 @@ Starting Upload
   https://s3.us-east-1.amazonaws.com/my-bucket/index.html 
 
 ```
+
+## Installation
+
+```
+brew tap kalyan02/tools
+brew install gzsync
+```

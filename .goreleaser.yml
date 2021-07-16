@@ -9,7 +9,11 @@ brews:
   - 
     tap:
       owner: kalyan02
-      name: gzsync
+      name: tools
+    commit_author:
+      name: Kalyan Namburi
+      email: 300864+kalyan02@users.noreply.github.com
+
     folder: Formula
 builds:
   - env:
