@@ -5,6 +5,12 @@ before:
     - go mod tidy
     # you may remove this if you don't need go generate
     # - go generate ./...
+brews:
+  - 
+    tap:
+      owner: kalyan02
+      name: gzsync
+    folder: Formula
 builds:
   - env:
       - CGO_ENABLED=0
