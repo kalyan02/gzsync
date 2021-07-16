@@ -9,7 +9,7 @@ brews:
   - 
     tap:
       owner: kalyan02
-      name: tools
+      name: homebrew-tools
     commit_author:
       name: Kalyan Namburi
       email: 300864+kalyan02@users.noreply.github.com
